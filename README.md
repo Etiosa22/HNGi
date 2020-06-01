@@ -1,2 +1,3 @@
 # HNGi
-Yay, its my first project on HNGi
+Yay! Its my first project on HNGi
+I am excited
